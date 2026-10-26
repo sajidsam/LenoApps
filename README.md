@@ -15,10 +15,17 @@ A modern, high-converting, and sleek landing page for **Leno** — the all-in-on
 
 ## 📸 Previews & Showcase
 
-### 🖥️ Desktop Preview
-Clean and modern hero section highlighting key value propositions, call-to-actions, and dual smartphone mockup displays.
+### 🖥️ Full Landing Page Preview
+A comprehensive full-page showcase of the landing page featuring the hero section, dual smartphone mockups, key features, preview cards, testimonials, and download CTAs.
 
-![Leno Desktop Preview](./readme-images/Screenshot%202026-10-25%20175939.png)
+![Leno Landing Page Preview](./readme-images/screencapture-leno-apps-vercel-app-2026-10-27-01_30_19.png)
+
+---
+
+### 📄 Details Page Preview
+Clean and structured details page highlighting in-depth project features, specifications, and application details.
+
+![Leno Details Page Preview](./readme-images/screencapture-leno-apps-vercel-app-details-2026-10-27-01_30_40.png)
 
 ---
 
@@ -67,9 +74,11 @@ LenoApps/
 │   └── ...
 ├── js/
 │   └── script.js               # Navbar scroll listener & mobile menu toggle logic
-├── readme-images/              # Readme screenshots (Desktop & iPhone preview)
-│   ├── Screenshot 2026-10-25 175939.png
+├── readme-images/              # Showcase screenshots
+│   ├── screencapture-leno-apps-vercel-app-2026-10-27-01_30_19.png
+│   ├── screencapture-leno-apps-vercel-app-details-2026-10-27-01_30_40.png
 │   └── iPhone-14-PRO-leno-apps.vercel.app.png
+├── details.html                # Details page markup
 ├── index.html                  # Main landing page markup
 └── README.md                   # Project documentation
 ```
